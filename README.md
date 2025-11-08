@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Amaral!
 
-<!--
-**eo4m4r4l/eo4m4r4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e tecnologia, aprendendo de forma autodidata por meio de **cursos online**, **projetos pessoais** e **participações em eventos de programação**.
 
-Here are some ideas to get you started:
+Atualmente estou estudando:
+- 🐍 **Python** (CursoEmVídeo)
+- 🌐 Fundamentos de **HTML**, **CSS**, **JavaScript** e **PHP**
+- 🔐 Introdução à **Segurança da Informação**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivo
+Construir uma base sólida em programação e, futuramente, aprofundar meus estudos na área de **cibersegurança**.
+
+## 📂 Alguns projetos
+- [CursoEmVideo](https://github.com/seuusuario/CursoEmVideo) — exercícios e materiais de cursos que estou realizando.
+/*(Adicione aqui novos projetos conforme for criando!)*/
+
+---
+
+> “A cada linha de código, um passo mais perto de entender como tudo funciona.”
