@@ -12,7 +12,6 @@ Construir uma base sólida em programação e, futuramente, aprofundar meus estu
 
 ## 📂 Alguns projetos
 - [CursoEmVideo](https://github.com/seuusuario/CursoEmVideo) — exercícios e materiais de cursos que estou realizando.
-/*(Adicione aqui novos projetos conforme for criando!)*/
 
 ---
 
